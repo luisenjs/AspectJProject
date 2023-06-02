@@ -1,7 +1,7 @@
 # AspectJProject
 
 Aspecto de ejemplo: "User created"
-![Usuario](.\CapEjemplo.jpeg)
+![Usuario](https://github.com/luisenjs/AspectJProject/blob/main/CapEjemplo.jpg)
 
 Aspecto de Transacción:
-![Transacción](.\CapTransacción.jpeg)
+![Transacción](https://github.com/luisenjs/AspectJProject/blob/main/CapTransacci%C3%B3n.jpg)
