@@ -1,6 +1,2 @@
-Transaction 1/5/2023
-Money withdrawn 1/5/2023
-Transaction 1/5/2023
-Transaction 1/5/2023
-Money withdrawn 1/5/2023
-Money withdrawn 1/5/2023
+Transaction 21:25:24
+Money withdrawn 21:25:24
